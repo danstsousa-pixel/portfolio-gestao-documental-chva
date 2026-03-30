@@ -46,4 +46,4 @@ Este projeto foi construído utilizando os mais altos padrões de Engenharia de 
 ---
 
 ## 👨‍💻 Desenvolvido por
-**Daniel Aleixo** *Arquivista | Analista de Dados & Dev em Formação* 🔗 [Conecte-se comigo no LinkedIn]((https://www.linkedin.com/in/daniel-souza-8075371bb/))
+**Daniel Aleixo** *Arquivista | Analista de Dados & Dev em Formação* 🔗 [Conecte-se comigo no LinkedIn](https://www.linkedin.com/in/daniel-souza-8075371bb/)
