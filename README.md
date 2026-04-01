@@ -15,11 +15,14 @@
 
 ![Dash_Gestao de acervo_ part3](https://github.com/user-attachments/assets/e7dc173e-425f-4e2b-b382-55d9faec1454)
 
+
 ---
 
 ### 🎥 Demonstração de Ferramentas Interativas
 
-![Gráfico de explosao solar 1](https://github.com/user-attachments/assets/20c9244f-2973-4955-b96f-cac48863a4a3)
+![Gráfico de explosao solar 1](https://github.com/user-attachments/assets/1dcfc641-bbce-49e5-b139-9a5b69b841ba)
+
+**🪧Observação: Os gráficos estão disponíveis em alta resolução no dashboard.** 
 
 
 ---
