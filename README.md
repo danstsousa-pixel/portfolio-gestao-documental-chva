@@ -7,6 +7,23 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 
+---
+
+### 🎥 Demonstração Visual
+
+
+
+![Dash_Gestao de acervo_ part3](https://github.com/user-attachments/assets/e7dc173e-425f-4e2b-b382-55d9faec1454)
+
+---
+
+### 🎥 Demonstração Visual do Sistema
+
+![Gráfico de explosao solar 1](https://github.com/user-attachments/assets/20c9244f-2973-4955-b96f-cac48863a4a3)
+
+
+---
+
 ## 💡 Sobre o Projeto
 Este projeto é uma solução de inteligência analítica desenvolvida para transformar a Gestão Documental hospitalar em estratégia de negócio. Utilizando dados do Complexo Hospitalar Vitta Anatomy (CHVA - instituição fictícia), o dashboard integra os princípios da Arquivologia com métricas avançadas de Business Intelligence.
 
