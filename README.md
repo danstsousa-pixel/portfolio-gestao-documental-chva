@@ -9,7 +9,7 @@
 
 ---
 
-### 🎥 Demonstração Visual
+### 🎥 Demonstração Visual do Sistema
 
 
 
@@ -17,7 +17,7 @@
 
 ---
 
-### 🎥 Demonstração Visual do Sistema
+### 🎥 Demonstração de Ferramentas Interativas
 
 ![Gráfico de explosao solar 1](https://github.com/user-attachments/assets/20c9244f-2973-4955-b96f-cac48863a4a3)
 
