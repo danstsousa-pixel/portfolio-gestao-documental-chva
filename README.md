@@ -25,7 +25,7 @@
 
 ## 💡 Sobre o Projeto: Inteligência Arquivística e Ciência de Dados
 
-Historicamente, a gestão de arquivos em grandes corporações é tratada como um custo passivo — um mero "depósito de papéis". Este projeto nasce para romper esse paradigma, apresentando uma solução de **Inteligência Arquivística aplicada a Negócios**.
+Historicamente, a gestão de arquivos em grandes corporações é tratada como um custo passivo (um mero "depósito de papéis"). Este projeto tem como objetivo apresentar uma solução de **Inteligência Arquivística aplicada a Negócios**.
 
 Utilizando dados do Complexo Hospitalar Vitta Anatomy (CHVA - instituição fictícia), este dashboard eleva a Gestão Documental ao nível estratégico. Ele não apenas contabiliza caixas, mas integra os princípios clássicos da Arquivologia (como a Teoria das Três Idades e a Tabela de Temporalidade) com **métricas arquivométricas, conceitos de Business Intelligence (BI) e modelagem de Ciência de Dados.**
 
