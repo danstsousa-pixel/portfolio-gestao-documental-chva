@@ -15,61 +15,58 @@
 
 ---
 
-### 🎥 Demonstração de Ferramentas Interativas
+### 🔎 Demonstração de Ferramentas Interativas (Drill-down)
 
 ![Gráfico de explosao solar 1](https://github.com/user-attachments/assets/1dcfc641-bbce-49e5-b139-9a5b69b841ba)
 
-**🪧 Observação: Os gráficos estão disponíveis em alta resolução no dashboard interativo.**
+*🪧 Observação: Os gráficos estão disponíveis em alta resolução no dashboard interativo.*
 
 ---
 
 ## 💡 Sobre o Projeto: Inteligência Arquivística e Ciência de Dados
 
-Historicamente, a gestão de arquivos em grandes corporações é tratada como um custo passivo (um mero "depósito de papéis"). Este projeto tem como objetivo apresentar uma solução de **Inteligência Arquivística aplicada a Negócios**.
+Historicamente, a gestão de arquivos em grandes corporações é tratada como um passivo financeiro (um mero "depósito de papéis"). Este projeto nasce para quebrar esse paradigma, apresentando uma solução real de **Inteligência Arquivística orientada a Dados (Data-Driven)**.
 
-Utilizando dados do Complexo Hospitalar Vitta Anatomy (CHVA - instituição fictícia), este dashboard eleva a Gestão Documental ao nível estratégico. Ele não apenas contabiliza caixas, mas integra os princípios clássicos da Arquivologia (como a Teoria das Três Idades e a Tabela de Temporalidade) com **métricas arquivométricas, conceitos de Business Intelligence (BI) e modelagem de Ciência de Dados.**
+Utilizando a base de dados do Complexo Hospitalar Vitta Anatomy (CHVA - instituição fictícia), este dashboard eleva a Gestão Documental ao nível estratégico. A aplicação integra os princípios clássicos da Arquivologia (Teoria das Três Idades, Tabela de Temporalidade) com **métricas arquivométricas, Business Intelligence (BI) e modelagem de Ciência de Dados**.
 
-O objetivo é fornecer à Alta Gestão (CFO, DPO, RH e Operações) uma ferramenta analítica preditiva e de mitigação de riscos, transformando o acervo em um ativo rastreável e em um **Centro de Serviços que recupera custos operacionais**.
+**O Objetivo:** Fornecer à Alta Gestão (C-Level, DPO, RH e Operações) uma ferramenta analítica preditiva para mitigar riscos, transformando o acervo de um centro de custos para um **Centro de Serviços Gerador de Receitas e Economia ESG**.
 
 ---
 
 ## 🎯 Pilares Estratégicos (Visão de Negócio)
 
-* **💰 Inteligência Financeira e ROI (O Arquivo como Centro de Serviços):**
-    * **Demonstrativo de Resultado (Waterfall):** Rastreio do custo efetivo cruzando Despesas Imobiliárias (Guarda Externa) vs. Economia ESG e Recuperação de Custos.
-    * **Receita Acessória Estruturada:** Precificação automatizada de serviços baseada no CFM e LGPD (ex: R$ 0,40/folha para materiais; R$ 95,00 para desarquivamento de legados complexos para auditorias externas).
-    * Simulador interativo de impacto de fretes logísticos (SLA Normal vs. Emergencial).
-
-* **🌡️ Saúde Ocupacional e Biossegurança (People Analytics):**
-    * Matriz Termo-Higrométrica diária para controle da Zona Ideal de Conservação.
-    * **Correlação de Risco Biológico:** Cruzamento de dados entre o recebimento de acervos não higienizados (Risco Fúngico/Poeira) e picos de **Absenteísmo do RH** por doenças respiratórias.
+* **💰 Inteligência Financeira e ROI:**
+  * **DRE Aplicada (Waterfall):** Rastreio do custo efetivo cruzando Despesas Imobiliárias vs. Economia de Espaço Nobre e Recuperação de Custos.
+  * **Engenharia de Receita:** Precificação automatizada de serviços baseada no CFM e LGPD (ex: taxas de desarquivamento complexo para auditorias externas).
+  * **Simulador de Risco Passivo:** Cálculo do "Custo da Inércia" (Efeito bola de neve no aluguel de caixas vencidas).
 
 * **🛡️ Compliance e Governança (LGPD):**
-    * Monitoramento rigoroso do ciclo de vida de dados hipersensíveis (Prontuários e Dossiês de RH).
-    * Rastreio de vulnerabilidades e emissão de alertas precoces ao DPO sobre quebras de SLA e riscos de vazamento.
+  * Monitoramento rigoroso do ciclo de vida de dados hipersensíveis (Prontuários e Dossiês de RH).
+  * Emissão de alertas precoces ao DPO sobre quebras de SLA e exposição a multas da ANPD.
 
-* **⚙️ Eficiência Operacional (Front-Office & Back-Office):**
-    * Rastreio de SLAs em Ordens Judiciais, mitigando o Risco Financeiro de multas.
-    * Monitoramento de gargalos de atendimento: Busca Física (Reativa) vs. Preditiva (Antecipada pela agenda médica).
-    * Transição Digital: Acompanhamento da curva de crescimento do acervo Nato-Digital vs. Físico Híbrido.
+* **🌡️ Saúde Ocupacional e Biossegurança (People Analytics):**
+  * Matriz Termo-Higrométrica diária para controle da Zona Ideal de Conservação.
+  * **Correlação de Risco:** Cruzamento estatístico entre o manuseio de acervos contaminados (Fungos/Poeira) e o aumento do absenteísmo do RH por doenças respiratórias.
 
-* **🌱 Real Estate e ESG:**
-    * Aplicação da Teoria das Três Idades para otimização do metro quadrado hospitalar.
-    * Conversão do fluxo de Descarte Seguro em indicadores de reciclagem ambiental (Retorno ESG em Kg).
+* **⚙️ Eficiência Operacional e ESG:**
+  * Monitoramento de gargalos: Busca Física (Reativa) vs. Preditiva (Antecipada).
+  * Acompanhamento da Transição Digital (Nato-Digital vs. Físico).
+  * Conversão do fluxo de Descarte Seguro em indicadores de reciclagem ambiental (Retorno ESG certificado em Kg).
 
 ---
 
 ## 🏗️ Arquitetura e Engenharia de Software
 
-Este projeto foi construído utilizando os mais altos padrões de Engenharia de Software e modularização, visando escalabilidade e fácil manutenção:
-* `app.py`: Interface de usuário, roteamento de abas e renderização visual.
-* `data_loader.py`: Motor relacional robusto para ETL, limpeza de dados sujos e aplicação de regras de negócio complexas.
-* `config.py`: Gestão centralizada de paleta de cores corporativa e dicionários de UX.
-* `utils.py`: Funções utilitárias e formatadores de métricas financeiras.
+O ecossistema foi desenvolvido em **Python**, utilizando os mais altos padrões de modularização de software e boas práticas de ETL:
+* `app.py`: Interface de usuário, roteamento e renderização reativa via **Streamlit**.
+* `data_loader.py`: Motor relacional robusto (via **Pandas**) para extração, limpeza de dados sujos e aplicação de regras de negócio.
+* `config.py`: Gestão centralizada de variáveis, paleta corporativa e dicionários de UX.
+* `utils.py`: Funções utilitárias e formatadores customizados.
+* **Data Viz:** Gráficos interativos renderizados com **Plotly** (Sunburst, Waterfall, Treemaps).
 
-🔒 **Nota de Propriedade Intelectual:** *O código-fonte completo deste sistema e seus pipelines de dados encontram-se em um repositório privado para proteção das lógicas de negócio e arquitetura. A aplicação acima é uma demonstração pública (Deploy via Render).*
+🔒 **Nota de Propriedade Intelectual:** *O código-fonte completo deste sistema (incluindo pipelines e scripts de ETL) encontra-se em um repositório privado para proteção da arquitetura de negócios. O link disponibilizado no topo é uma demonstração pública do front-end.*
 
 ---
 
-## 👨‍💻 Desenvolvido por
+## 👨‍💻 Desenvolvedor
 **Daniel Aleixo** *Arquivista | Analista de Dados & Dev em Formação* 🔗 [Conecte-se comigo no LinkedIn](https://www.linkedin.com/in/daniel-souza-8075371bb/)
